@@ -1,0 +1,10 @@
+
+f1 = open(r'I:\2024\python-one\learn-py\file\ops.txt', mode='rt')
+
+res = f1.read()
+
+print(res)
+
+sound
+
+安静的一天
